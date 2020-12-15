@@ -3,3 +3,8 @@ prepared_data/
 .idea/
 .ipynb_checkpoints/
 images/
+data_prepared_corelation/
+prepared_data_category/
+prepared_data_discretize/
+prepared_data_pca/
+.ipynb_checkpoints/
