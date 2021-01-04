@@ -8,3 +8,4 @@ prepared_data_category/
 prepared_data_discretize/
 prepared_data_pca/
 .ipynb_checkpoints/
+prepared_data_iForest_pca/
