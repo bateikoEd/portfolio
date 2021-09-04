@@ -14,5 +14,5 @@ Worked with not stationar time series. <br>
 **Libraries**: scikit-learn, Pandas, Numpy, Featuretools, SciPy, Matplotlib, Pandas-Profiling, yahoofinance, pytrends, statsmodels, MLFlow.<br>
 **Models** : RandomForest, XGBoost, LinearRegression, Extra Trees, Decision Tree, Elastic Net.
 
-![](https://github.com/bateikoEd/portfolio/blob/main/images/project1/2021-05-07_22-00.png)
-![](https://github.com/bateikoEd/portfolio/blob/main/images/project1/2021-09-04_14-01.png)
+![](/images/project1/2021-05-07_22-00.png)
+![](/images/project1/2021-09-04_14-01.png)
