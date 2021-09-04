@@ -1,4 +1,4 @@
-# Portfolio
+# Eduard Bateiko Portfolio
 
 # Project 1: Bitcoin prediction for 1 day
 
