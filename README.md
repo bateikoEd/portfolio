@@ -1,6 +1,6 @@
 # Eduard Bateiko Portfolio
 
-# Project 1: [Bitcoin prediction for 1 day](https://github.com/bateikoEd/dipl_program/tree/main/bitcoin%20predicton)
+# Project 1: [Bitcoin prediction for 1 day](https://bateikoed.github.io/dipl_program/bitcoin%20predicton/)
 
 Predict stock value of Bitcoin price and highlight the most important words from Google Search which influentce on Bitcoin. I used Yahoo API for gathering stock value and Google Trends API. 
 
